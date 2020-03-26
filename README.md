@@ -4,6 +4,18 @@ a roadmap for deep metric learning(DML)
 ER: extensive reading
 IR: intensive reading
 
+## Intro
+
+metric leaning has some research directions
+
+- batch construction
+- sample in batch
+- weight all the samples
+- ensemble
+
+the first three directions is all about hard negative mining
+
+
 ## CVPR 2019
 
 name | describe | comments   
