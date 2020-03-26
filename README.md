@@ -1,2 +1,8 @@
 # Deep-Metric-Learning-Papers-Reading-RoadMap
 a roadmap for deep metric learning(DML)
+
+## CVPR 2019
+
+name | describe | comments   
+-|-|-
+Divide and Conquer the Embedding Space for Metric Learning |  难样本挖掘+类内差异|  |
